@@ -1,4 +1,4 @@
-# 🎨 Drawify
+# 🎨 Drawifyz
 
 **Drawify**, çizimlerinizi kolayca oluşturup paylaşabileceğiniz modern, hafif ve kullanımı kolay bir web uygulamasıdır. Herhangi bir indirme veya kurulum gerektirmez — doğrudan tarayıcınız üzerinden kullanabilirsiniz.
 
